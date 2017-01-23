@@ -89,5 +89,7 @@ ENV/
 *.tif
 *.png
 
+*.zip
+
 # Rope project settings
 .ropeproject
