@@ -88,8 +88,9 @@ ENV/
 # non vogliamo immagini su github
 *.tif
 *.png
-
+*.jpg
 *.zip
+
 
 # Rope project settings
 .ropeproject
