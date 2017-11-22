@@ -1,0 +1,6 @@
+immagine: (media[micron], dev std[micron], num campioni)
+
+{'BOX10-7 MLI mask': (10.54118, 2.8124321, 2424),
+ 'BOX5-1 MLmask': (10.169435, 3.7605124, 2110),
+ 'BOX8-4 - MLmask': (11.458719, 3.5401154, 2392),
+ 'BOX9-5ML mask': (11.202835, 2.6689754, 2224)}
